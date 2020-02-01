@@ -1,0 +1,14 @@
+{
+    "name": "dan/curl",
+    "description": "asdasfd",
+    "authors": [
+        {
+            "name": "josh",
+            "email": "joshuawilkeson@timetracker365.com"
+        }
+    ],
+    "require": {
+        "php-curl-class/php-curl-class": "^8.6",
+        "paquettg/php-html-parser": "^2.2"
+    }
+}
